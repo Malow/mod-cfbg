@@ -25,5 +25,5 @@
 #
 
 CFBG.Enable = 1
-CFBG.Include.Avg.Ilvl.Enable = 0
+CFBG.Include.Avg.Ilvl.Enable = 1
 CFBG.Players.Count.In.Group = 3
